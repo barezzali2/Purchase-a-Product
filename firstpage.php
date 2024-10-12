@@ -1,6 +1,3 @@
-<!-- Barez Zuber Ali 
-     bz20458
--->
 
 <!DOCTYPE html>
 <html lang="en">
